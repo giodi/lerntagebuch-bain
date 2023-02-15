@@ -1,0 +1,4 @@
+baseURL = 'https://giodi.github.io/lerntagebuch-bain'
+languageCode = 'de-ch'
+title = 'Lerntagebuch Bibliotheks- und Archivinformatik'
+theme = 'xmin'
