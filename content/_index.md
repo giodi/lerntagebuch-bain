@@ -1,0 +1,1 @@
+Diese Webseite entspricht einem Lerntagebuch in Form eines Blog, welches im Rahmen des Kurses "Bibliotheks- und Archivinformatik" am der FH Graubünden als Leistungsnachweis erstellt wurde.

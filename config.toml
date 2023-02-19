@@ -1,18 +1,10 @@
-baseURL = 'https://giodi.github.io/lerntagebuch-bain'
+baseURL = 'https://giodi.github.io/lerntagebuch-bain/'
 languageCode = 'de-ch'
-title = 'Lerntagebuch Bibliotheks- und Archivinformatik'
-theme = 'devise'
-enableRobotsTXT = false
-copyright = "&copy; Copyright 2023, Gionathan Diani"
+title = 'Lerntagebuch zum Modul Bibliotheks- und Archivinformatik'
+theme = 'nostyleplease'
+
 [params]
-description = "Lerntagebuch Bibliotheks- und Archivinformatik"
-header_title = "Gionathan Diani"
-header_subtitle = "Lerntagebuch Bibliotheks- und Archivinformatik" # Your header subtitle
-home_image = "/images/avatar.png"
-recent_posts = 20 # Max amount of recent posts to show
-mainSections = ["posts", "post", "blog"] # Main sections to include in recent posts
-[params.style] # CSS style overrides
-backgroundColor = "#f8f9fa"
-homeImageBorderColor = "#ffffff"
-fontFamilyBase = "Helvetica Neue"# First-choice font
-fontColor = "#212529"
+  [params.theme_config]
+    appearance = "auto"
+    back_home_text = "Zur Startseite"
+    date_format = "2006-01-02"

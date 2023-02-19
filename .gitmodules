@@ -4,3 +4,12 @@
 [submodule "themes/devise"]
 	path = themes/devise
 	url = https://github.com/austingebauer/devise
+[submodule "themes/nightfall"]
+	path = themes/nightfall
+	url = https://github.com/LordMathis/hugo-theme-nightfall
+[submodule "themes/rocinante"]
+	path = themes/rocinante
+	url = https://github.com/mavidser/hugo-rocinante.git
+[submodule "hugo-theme-nostyleplease"]
+	path = hugo-theme-nostyleplease
+	url = https://github.com/Masellum/hugo-theme-nostyleplease
