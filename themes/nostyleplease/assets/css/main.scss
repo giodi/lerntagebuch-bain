@@ -126,9 +126,19 @@ ul.menu{
   &>li{
     font-weight: bold;
     font-size: 1.5em;
+
   }
   ul{
     list-style: none;
     padding: 0;
+    li{
+      display: flex;
+      @media(max-width: 480px){
+        flex-direction: column;
+      }
+      span{
+        padding: 0 1rem 0 0;
+      }
+    }
   }
 }
